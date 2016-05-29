@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="DesignMoudle:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="hongzeng.war">
+      <element id="artifact" artifact-name="DesignMoudle:war exploded" />
+    </root>
+  </artifact>
+</component>
